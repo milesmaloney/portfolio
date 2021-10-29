@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.dc3974d3.chunk.css",
+    "main.js": "/portfolio/static/js/main.cc57c0e1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cc57c0e1.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.9c652dfb.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.9c652dfb.js.map",
+    "static/js/2.5a14a83b.chunk.js": "/portfolio/static/js/2.5a14a83b.chunk.js",
+    "static/js/2.5a14a83b.chunk.js.map": "/portfolio/static/js/2.5a14a83b.chunk.js.map",
+    "static/js/3.2e09112b.chunk.js": "/portfolio/static/js/3.2e09112b.chunk.js",
+    "static/js/3.2e09112b.chunk.js.map": "/portfolio/static/js/3.2e09112b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.dc3974d3.chunk.css.map": "/portfolio/static/css/main.dc3974d3.chunk.css.map",
+    "static/js/2.5a14a83b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5a14a83b.chunk.js.LICENSE.txt",
+    "static/media/cultist.bd9b6018.png": "/portfolio/static/media/cultist.bd9b6018.png",
+    "static/media/img0.0535866c.jpg": "/portfolio/static/media/img0.0535866c.jpg",
+    "static/media/img1.16ace0ce.jpg": "/portfolio/static/media/img1.16ace0ce.jpg",
+    "static/media/img2.ee2d3c91.jpg": "/portfolio/static/media/img2.ee2d3c91.jpg",
+    "static/media/img3.141d8096.jpg": "/portfolio/static/media/img3.141d8096.jpg",
+    "static/media/img4.2ea9a74a.jpg": "/portfolio/static/media/img4.2ea9a74a.jpg",
+    "static/media/img5.4c15162a.jpg": "/portfolio/static/media/img5.4c15162a.jpg",
+    "static/media/img6.83556862.jpg": "/portfolio/static/media/img6.83556862.jpg",
+    "static/media/pArcaneMage.1f79caca.png": "/portfolio/static/media/pArcaneMage.1f79caca.png",
+    "static/media/siteImg.d83318e1.png": "/portfolio/static/media/siteImg.d83318e1.png",
+    "static/media/skeleton.dc3f322c.png": "/portfolio/static/media/skeleton.dc3f322c.png",
+    "static/media/warden.c1e293ed.png": "/portfolio/static/media/warden.c1e293ed.png",
+    "static/media/warrior.384055ef.png": "/portfolio/static/media/warrior.384055ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c652dfb.js",
+    "static/js/2.5a14a83b.chunk.js",
+    "static/css/main.dc3974d3.chunk.css",
+    "static/js/main.cc57c0e1.chunk.js"
+  ]
+}
