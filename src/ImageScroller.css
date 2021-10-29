@@ -1,0 +1,61 @@
+#ImageScroller {
+    height: 100%;
+    width: 100%;
+}
+
+#shuffleButton {
+    height: 5%;
+    width: 5%;
+    top: 0%;
+    right: 0%;
+    outline-style: outset;
+    outline-color: grey;
+    position: absolute;
+}
+
+#shuffleTexture {
+    margin: 0%;
+    height: 100%;
+    width: 100%;
+    outline-style: inset;
+    outline-color: whitesmoke;
+}
+
+#shuffleTexture > h1 {
+    font-size: 18px;
+    height: 100%;
+    width: 100%;
+    margin:0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: font-size 180ms, opacity 180ms;
+}
+
+#shuffleTexture > h1:hover {
+    opacity: 1;
+    font-size: 24px;
+}
+
+#shuffleTexture > h2 {
+    font-size: 18px;
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: font-size 180ms, opacity 180ms;
+}
+
+#shuffleTexture > h2:hover {
+    opacity: 1;
+    font-size: 24px;
+}
+
+#shuffleSlider {
+    transition: background-color 180ms, left 180ms;
+}

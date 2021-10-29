@@ -1,0 +1,47 @@
+#header {
+    display: block;
+    background-image: url('https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4549221.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 15%;
+    width: 100%;
+    top: 0%;
+    position: fixed;
+    text-align: center;
+    z-index: 2;
+    outline-style: groove;
+    outline-color: rgb(196,196,256);
+}
+
+#headerLeft {
+    background-color: rgba(0, 0, 60, 0.66);
+}
+
+#headerMid {
+    background-color: rgba(0, 0, 60, 0.66);
+}
+
+#headerRight {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 60, 0.66);
+}
+
+#headerMid > h1 {
+    padding: 0px;
+    margin: 0px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aqua;
+    font-size: 75px;
+}
+
+#headerLeft > h2 {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding: 0px;
+    margin: 0px;
+    font-family:'Times New Roman', Times, serif;
+    color: orange;
+    font-size: 25px;
+}

@@ -1,0 +1,33 @@
+#projectMain {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+#projectMain > ul {
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    list-style-type: none;
+}
+
+#projectMain > a {
+    top: 0%;
+    right: 17px;
+    height: 5%;
+    width: 3%;
+    z-index: 1;
+    position: fixed;
+}
+
+a > #ghicon {
+    height: 100%;
+    width: 100%;
+    background-image: url('https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png');
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+}
