@@ -95,7 +95,7 @@ export default class Page extends React.Component {
             var sidebarStyle = {left: '0%', top: '10%', width: '20%', height: '90%', borderRight: '5px groove rgba(0,0,0,1)'};
             return (
                 <div id = "page">
-                    <Header divs = {[1,1,0]} content = {[<LocalClock fontSize = '3vw'/>, <h1 onClick = {() => this.changePageType('about me')}>Miles Maloney</h1>]} style = {headerStyle}/>
+                    <Header divs = {[1,1,0]} content = {[<LocalClock fontSize = '3vw'/>, <h1 style = {{fontSize: '6vw'}} onClick = {() => this.changePageType('about me')}>Miles Maloney</h1>]} style = {headerStyle}/>
                     <Sidebar content = {sidebarContent} style = {sidebarStyle}/>
                     <div id = "main" style = {mainStyle}>
                         <ImageScroller shuffle = {0} images = {images} bgSrc = {'https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260'}/>
